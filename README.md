@@ -45,3 +45,5 @@ Keywords: Two axis machine, Kitchen, Pancake
 ## License
 
 Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+![alternatif metin](https://github.com/acetinkaya/Production-and-Analysis-of-a-Two-Axis-Food-Liquid-Pouring-Machine/blob/main/ProductionPancake.png)
