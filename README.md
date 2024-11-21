@@ -23,10 +23,10 @@ Production and Analysis of a Two-Axis Food Liquid Pouring Machine
 *For Correspondence: moerdogan@gelisim.edu.tr*
 
 ## Article Information
-- **Received**: June 15, 2022  
-- **Accepted**: November 10, 2022
-- **DOI:** 10.36287/ijmsit.6.2.162
-- **Full Article Access Link**: [Predicting the Income Groups and Number of Immigrants by Using Machine Learning (ML)](https://dergipark.org.tr/en/pub/ijmsit/issue/73364/1130985)
+- **Received**: February 15, 2022  
+- **Accepted**: August 10, 2022
+- **DOI:** 10.19072/ijet.1060635
+- **Full Article Access Link**: [Production, and Analysis of a Two-Axis Food Liquid Pouring Machine](https://dergipark.org.tr/en/pub/ijet/issue/72953/1060635)
 
 Abstract
 
